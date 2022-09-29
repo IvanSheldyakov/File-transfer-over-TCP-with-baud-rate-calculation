@@ -15,7 +15,7 @@ public class ServerRunner {
 
         Scanner scanner = new Scanner(System.in);
         if (scanner.hasNext()) {
-            //server.interrupt();
+            
         }
     }
 }
